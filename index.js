@@ -1,3 +1,4 @@
+
 const studentGrades = ['Martin Pratt: 53%',
   'Kain Gibbs: 76%',
   'Shantelle Shah: 82%',
@@ -41,4 +42,6 @@ const studentGrades = ['Martin Pratt: 53%',
   'Ubaid Shannon: 88%',
   'Todd Chadwick: 81%']
 
-console.log(studentGrades.join());
+console.log(studentGrades.join());  
+
+let count = people.count()
